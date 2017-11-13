@@ -1,0 +1,20 @@
+{
+  "name": "diary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "express": "4.13.4",
+    "firebase-admin": "5.4.3",
+    "mongoose": "4.6.0",
+    "node-cron": "1.2.1",
+    "node-telegram-bot-api": "^0.29.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vitalik",
+  "license": "ISC"
+}
